@@ -3,7 +3,6 @@ title: About me
 site: distill::distill_website
 ---
 <body style="background-color:#121010;">
-
 ```{r echo=FALSE, layout="l-screen-inset"}
 library("knitr")
 include_graphics("images/index1.jpg")
