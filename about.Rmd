@@ -27,5 +27,5 @@ During my free time, I enjoy cycling, running, and painting. I also love to go h
 ![](images/about4.png){width=60%}
 ![](images/research1.jpg){width=35%}
 ![](images/Vbarvabike.jpeg){width=60%}
-![](images/Ema.jpeg){width=40%}
+![](images/Ema.jpeg){width=55%}
 </center>
