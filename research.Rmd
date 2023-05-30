@@ -25,15 +25,14 @@ include_graphics("images/coffeeplantation.jpeg")
 **Past projects**
 </p>
 
-
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: left">
-**Thermal niche diversification in** *Sturnira* **bats (Family Phyllostomidae) and its influence in speciation events.** A study with phylogenetic and macroecological approach.
+**Thermal niche diversification in** *Sturnira* **bats (Family Phyllostomidae) and its influence in speciation events.** A study with a phylogenetic and macroecological approach.
 </p>
 
 <br>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: left">
-**Relation between habitat niche breadth with ecomorphological traits and extintion risk.** This was my thesis project for my bachelor degree. 
+**Relation between habitat niche breadth with ecomorphological traits and extinction risk in phyllostomid bats (Family Phyllostomidae).** A research study that utilizes a phylogenetic and geographic approach.
 </p>
 
 <br>
