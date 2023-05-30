@@ -13,6 +13,6 @@ include_graphics("images/index1.jpg")
     **JORGE D. CARBALLO MORALRES**
 </p>
 
-<p style="font-family: accanthis; font-size:15pt; text-align: center; color:white">
+<p style="font-family: accanthis; font-size:17pt; text-align: center; color:white">
     Bat ecology, evolution, and conservation.
 </p>

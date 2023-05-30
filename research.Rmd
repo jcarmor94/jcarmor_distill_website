@@ -16,7 +16,7 @@ include_graphics("images/coffeeplantation.jpeg")
 <p style="font-family: accanthis; font-size:14pt; text-align: right; color:white">
 **Current projects**
 </p>
-<p style="font-family: accanthis; font-size:13pt; color:white; text-align: left">
+<p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
 **Master thesis project.** Coming soon. 
 </p>
 
@@ -25,23 +25,23 @@ include_graphics("images/coffeeplantation.jpeg")
 **Past projects**
 </p>
 
-<p style="font-family: accanthis; font-size:13pt; color:white; text-align: left">
+<p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
 **Thermal niche diversification in** *Sturnira* **bats (Family Phyllostomidae) and its influence in speciation events.** A study with a phylogenetic and macroecological approach.
 </p>
 
 <br>
 
-<p style="font-family: accanthis; font-size:13pt; color:white; text-align: left">
+<p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
 **Relation between habitat niche breadth with ecomorphological traits and extinction risk in phyllostomid bats (Family Phyllostomidae).** A research study that utilizes a phylogenetic and geographic approach.
 </p>
 
 <br>
 
-<p style="font-family: accanthis; font-size:13pt; color:white; text-align: left">
+<p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
 **Effect of habitat disturbance on the abundance of phyllostomid bats (Family Phyllostomidae).** A project with a meta-analysis approach.
 </p>
 
-<p style="font-family: accanthis; font-size:13pt; color:white; text-align: left">
+<p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
 The loss of tropical forest cover caused by land-use change is causing changes in populations of animal trophic guilds, including those belonging to Phyllostomidae bat species. They fulfill important ecosystem functions such as pollination, seed dispersion, and regulations of vertebrate and invertebrate populations in Neotropical forests and human disturbed habitats. We did an exhaustive literature review, focused on their trophic guild and abundance in disturbed habitat, followed by a series of meta-analyzes. We found that omnivorous, carnivorous, insectivorous and hematophagous bats were sensitive to habitat disturbance, while phytophagous were tolerant. In addition, the type of habitat disturbance and the type of forest where it occurs explain the differences of bat abundance within each trophic guild. These results could focus the conservation efforts of phyllostomid bats and the ecosystem services they provide in both anthropogenic and conserved habitats.
 </p>
 
