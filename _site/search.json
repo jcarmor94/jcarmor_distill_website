@@ -5,14 +5,14 @@
       "title": "About me",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\nABOUT\r\n\r\n\r\nI am a Costa Rican biologist interested in bat ecology, evolution, and conservation. I enjoy using phylogenetic data to explore the evolution and relationships between ecological and morphological traits in bats. Additionally, I am interested in employing spatial and environmental data to gain a geographic perspective on bat ecology and their evolutionary history. Finally, as part of my research I like to add conservation-relevant components looking for the results to have implications for the conservation and protection of bats and the ecosystems they inhabit.\r\n\r\n\r\nCurrently, I am a master’s student of Biology at Towson University in Maryland. I am a member of the Caetano Lab. My project focuses on the evolution of diet in frugivorous bats from the family Phyllostomidae, including its diversification and influence on speciation events.\r\n\r\n\r\nDuring my free time, I enjoy cycling, running, and painting. I also love to go hiking in the mountains and coffee plantations close to my home. I have a dog named Ema, and I enjoy taking her for hiking or short walks at night.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-29T23:16:49-06:00"
+      "last_modified": "2023-05-29T23:22:32-06:00"
     },
     {
       "path": "art.html",
       "title": "Art",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\nART\r\n\r\n\r\nDrawing | Photography\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-29T23:16:51-06:00"
+      "last_modified": "2023-05-29T23:22:34-06:00"
     },
     {
       "path": "blog.html",
@@ -20,28 +20,28 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\nBLOG\r\n\r\n\r\nTropBio2023 (07/18/2023)\r\n\r\n\r\nBody\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-29T23:16:53-06:00"
+      "last_modified": "2023-05-29T23:22:36-06:00"
     },
     {
       "path": "index.html",
       "title": "About me",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\nJORGE D. CARBALLO MORALRES\r\n\r\n\r\nBat ecology, evolution, and conservation.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-29T23:16:55-06:00"
+      "last_modified": "2023-05-29T23:22:38-06:00"
     },
     {
       "path": "publications.html",
       "title": "Publications",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\nPUBLICATIONS\r\n\r\n\r\n | \r\n\r\n\r\nUnder review\r\n\r\n\r\nCarballo-Morales, J. D., Saldaña-Vázquez, R. A., Villalobos, F., Herrera-Alsina, L. Thermal niche breadth in Sturnira bats and their relation with species diversification. Journal of Thermal Biology.\r\n\r\n\r\nSaldaña-Vázquez, R. A., Carballo-Morales, J. D., Hernández-Montero, J. R., Ríos-Chelén, A. A., Vázquez-Domínguez. G., Aguilar-Cucurachi, S., Avila-Flores, R., Mella-Mendez, I., Sandoval-Ruiz, C. A., Silva-Rivera. E., Schondube, J. E., Spaan, D. Bats in tropical cities: a view since the ecology in, of and for cities. In: Angeoletto, F., Tryjanowski. P., Fellowes. M. (eds) Ecology of Tropical Cities: Natural and Social Sciences Applied to the Conservation of Urban Biodiversity. Springer.\r\n\r\n\r\nIn prep\r\n\r\n\r\nCarballo-Morales, J. D., Villalobos, F., Saldaña-Vázquez, R. A, Herrera-Alsina, L. Habitat breadth and its relation to functional traits and extinction risk in phyllostomid bats.\r\n\r\n\r\nMedina-Bello, K. I., Carballo-Morales, J. D., Saldaña-Vázquez. R. A., Villalobos, F., Ayala-Berdon, J. Thermal energetics of bats of the family Vespertilionidae: an evolutionary approach.\r\n\r\n\r\n2022\r\n\r\n\r\nCarballo-Morales, J. D., Delgado-Montes, C., Auccacusi-Choque, L. V., Reyes-Ortiz, M., & Aisenberg, A. (2022). Niche partitioning and intraspecific shared webs in two species of Modisimus Simon, 1893 (Pholcidae: Araneae). The Journal of Arachnology, 50(1), 43-46.\r\n\r\n\r\n2021\r\n\r\n\r\nCabrera-Campos, I., Carballo-Morales, J. D., Saldaña-Vázquez, R. A., Villalobos, F., & Ayala-Berdon, J. (2021). Body mass explains digestive traits in small vespertilionid bats. Journal of Comparative Physiology B, 191, 427-438.\r\n\r\n\r\nCarballo-Morales, J. D., Saldaña-Vázquez, R. A., & Villalobos, F. (2021). Trophic guild and forest type explain phyllostomid bat abundance variation from human habitat disturbance. Global Ecology and Conservation, 25, e01425.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-29T23:16:57-06:00"
+      "last_modified": "2023-05-29T23:22:39-06:00"
     },
     {
       "path": "research.html",
       "title": "Research",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\nRESEARCH\r\n\r\n\r\nEvolutionary biology | Phylogenetic comparative methods | Trophic ecology | Macroecology | Systematic literature review | Conservation biology\r\n\r\n\r\nCurrent projects\r\n\r\n\r\nMaster thesis project. Coming soon.\r\n\r\n\r\nPast projects\r\n\r\n\r\nThermal niche diversification in Sturnira bats (Family Phyllostomidae) and its influence in speciation events. A study with a phylogenetic and macroecological approach.\r\n\r\n\r\n\r\nRelation between habitat niche breadth with ecomorphological traits and extinction risk in phyllostomid bats (Family Phyllostomidae). A research study that utilizes a phylogenetic and geographic approach.\r\n\r\n\r\n\r\nEffect of habitat disturbance on the abundance of phyllostomid bats (Family Phyllostomidae). A project with a meta-analysis approach.\r\n\r\n\r\nThe loss of tropical forest cover caused by land-use change is causing changes in populations of animal trophic guilds, including those belonging to Phyllostomidae bat species. They fulfill important ecosystem functions such as pollination, seed dispersion, and regulations of vertebrate and invertebrate populations in Neotropical forests and human disturbed habitats. We did an exhaustive literature review, focused on their trophic guild and abundance in disturbed habitat, followed by a series of meta-analyzes. We found that omnivorous, carnivorous, insectivorous and hematophagous bats were sensitive to habitat disturbance, while phytophagous were tolerant. In addition, the type of habitat disturbance and the type of forest where it occurs explain the differences of bat abundance within each trophic guild. These results could focus the conservation efforts of phyllostomid bats and the ecosystem services they provide in both anthropogenic and conserved habitats.\r\n\r\n\r\n\r\n\r\nSource: Carballo-Morales et al., 2021 (see Publications)\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-29T23:16:58-06:00"
+      "last_modified": "2023-05-29T23:22:41-06:00"
     }
   ],
   "collections": []
