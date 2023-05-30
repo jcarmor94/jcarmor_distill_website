@@ -1,0 +1,17 @@
+---
+title: "Art"
+---
+<body style="background-color:#990f50;">
+
+<br>
+<br>
+
+<p style="font-family: times, serif; font-size:40pt; text-align: center">
+    **ART**
+</p>
+<p style="font-family: times, serif; font-size:20pt; text-align: center">
+    Drawing | Photography
+</p>
+<br>
+<br>
+

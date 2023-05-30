@@ -1,0 +1,30 @@
+---
+title: "About me"
+---
+<body style="background-color:#090c12;">
+```{r echo=FALSE, layout="l-screen-inset"}
+library("knitr")
+include_graphics("images/coffeeplantation.jpeg")
+```
+<p style="font-family: times, serif; font-size:40pt; text-align: center; color:#fad905">
+    **ABOUT**
+</p>
+
+<p style="font-family: accanthis; font-size:13pt; color:white; text-align: center">
+I am a Costa Rican biologist interested in bat ecology, evolution, and conservation. I enjoy using phylogenetic data to explore the evolution and relationships between ecological and morphological traits in bats. Additionally, I am interested in employing spatial and environmental data to gain a geographic perspective on bat ecology and their evolutionary history. Finally, as part of my research I like to add conservation-relevant components looking for the results to have implications for the conservation and protection of bats and the ecosystems they inhabit.
+</p>
+<br>
+<p style="font-family: accanthis; font-size:13pt; color:white; text-align: center">
+Currently, I am a master's student of Biology at Towson University in Maryland. I am a member of the [***Caetano Lab***](https://caetanods.weebly.com/). My project focuses on the evolution of diet in frugivorous bats from the family Phyllostomidae, including its diversification and influence on speciation events.
+    </p>
+    
+<p style="font-family: accanthis; font-size:13pt; color:white; text-align: center">
+OTHER THINGS NOT ACADEMICALLY. HOBBIES, SPORTS. ETC
+    </p>
+    
+</p>
+<center>
+![](images/about4.png){width=60%}
+![](images/research1.jpg){width=35%}
+![](images/Vbarvabike.jpeg){width=60%}
+</center>

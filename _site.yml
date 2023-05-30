@@ -1,0 +1,27 @@
+name: "website"
+title: "JORGE D. CARBALLO MORALES"
+description: |
+output_dir: "_site"
+navbar:
+  right:
+    - text: ""
+      href: index.html
+    - text: "ABOUT"
+      href: about.html
+    - text: "RESEARCH"
+      href: research.html
+    - text: "PUBLICATION"
+      href: publications.html
+    - text: "ART"
+      href: art.html
+    - text: "BLOG"
+      href: blog.html
+    - icon: fa-brands fa-github
+      href: "https://github.com/Jd1994"
+    - icon: fa-brands fa-twitter
+      href: "https://twitter.com/jcarmor94"
+    - icon: fa fa-envelope
+      href: "mailto: jorge.carballo301094@gmail.com"
+output: distill::distill_article
+theme: "jcarmor_theme.css"
+favicon: images/publications3.ico

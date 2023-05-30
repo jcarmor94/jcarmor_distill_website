@@ -1,0 +1,28 @@
+---
+title: "Untitled"
+description: |
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+<body style="background-color:#ffea63;">
+```{r echo=FALSE, layout="l-screen-inset"}
+library("knitr")
+include_graphics("images/PVwater.jpeg")
+```
+<p style="font-family: times, serif; font-size:40pt; text-align: center; color:black">
+    **BLOG**
+</p>
+
+<p style="font-family: accanthis; font-size:15pt; color:black; text-align: left">
+**Title** (mm/dd/yyyy)
+</p>
+
+<p style="font-family: accanthis; font-size:13pt; color:black; text-align: left">
+Body 
+</p>
+
+<center>
+![](images/XXX.jpg){width=25%}
+![](images/XXX.jpg){width=25%}
+</center>
+<hr style="border:0.5px solid black">
