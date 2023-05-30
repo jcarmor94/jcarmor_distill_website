@@ -14,11 +14,11 @@ include_graphics("images/PVwater.jpeg")
 </p>
 
 <p style="font-family: accanthis; font-size:15pt; color:black; text-align: left">
-**Title** (mm/dd/yyyy)
+**TropBio2023** (07/18/2023)
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:black; text-align: left">
-Body 
+Body
 </p>
 
 <center>
