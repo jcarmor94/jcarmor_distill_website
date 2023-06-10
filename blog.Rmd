@@ -4,7 +4,8 @@ description: |
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
-<body style="background-color:#ffe330;">
+<body style="background-color:#ffe857;">
+
 ```{r echo=FALSE, layout="l-screen-inset"}
 library("knitr")
 include_graphics("images/PVwater.jpeg")
@@ -13,12 +14,16 @@ include_graphics("images/PVwater.jpeg")
     **BLOG**
 </p>
 
+<p style="font-family: accanthis; font-size:12pt; color:black; text-align: right">
+[English version](https://www.deepl.com/en/translator)
+</p>
+
 <p style="font-family: accanthis; font-size:15pt; color:black; text-align: left">
-**Inicial post** (01/01/2099)
+**Post inicial** (01/01/2099)
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:black; text-align: left">
-Coming soon
+Muy pronto
 </p>
 
 <center>
