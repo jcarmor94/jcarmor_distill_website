@@ -12,6 +12,10 @@ include_graphics("images/index1.jpg")
     **JORGE D. CARBALLO MORALES**
 </p>
 
+<p style="font-family: accanthis; font-size:12pt; text-align: center; color:white">
+    (el/he/his)
+</p>
+
 <p style="font-family: accanthis; font-size:17pt; text-align: center; color:white">
     Bat ecology, evolution, and conservation.
 </p>
