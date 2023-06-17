@@ -3,17 +3,13 @@ title: About me
 site: distill::distill_website
 ---
 <body style="background-color:#121010;">
+
 ```{r echo=FALSE, layout="l-screen-inset"}
 library("knitr")
 include_graphics("images/index1.jpg")
 ```
-
 <p style="font-family: accanthis; font-size:25pt; text-align: center; color:#fad905">
     **JORGE D. CARBALLO MORALES**
-</p>
-
-<p style="font-family: accanthis; font-size:12pt; text-align: center; color:white">
-    (el/he/his)
 </p>
 
 <p style="font-family: accanthis; font-size:17pt; text-align: center; color:white">
