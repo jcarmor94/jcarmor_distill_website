@@ -11,7 +11,11 @@ include_graphics("images/coffeeplantation.jpeg")
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
-I am a Costa Rican biologist interested in the ecology, evolution, and conservation of bats. I completed my undergraduate and postgraduate studies in Biology, with specializations in Tropical Biology and Natural Resource Management, at the National University of Costa Rica. For my research, I enjoy using phylogenetic data to explore the evolution and relationships between ecological and morphological traits in bats. Also, I like to use spatial and environmental data to give my work a geographic perspective; and add relevant components to conservation, seeking to influence the conservation and protection of bats and the ecosystems they inhabit.
+I am a Costa Rican biologist interested in the ecology, evolution, and conservation of bats. I completed my undergraduate and postgraduate studies in Biology, with specializations in Tropical Biology and Natural Resource Management, at the National University of Costa Rica.
+</p>
+
+<p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
+For my research, I enjoy using phylogenetic data to explore the evolution and relationships between ecological and morphological traits in bats. Also, I like to use spatial and environmental data to give my work a geographic perspective; and add relevant components to conservation, seeking to influence the conservation and protection of bats and the ecosystems they inhabit.
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify"> 
