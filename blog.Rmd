@@ -14,8 +14,8 @@ include_graphics("images/PVwater.jpeg")
     **BLOG**
 </p>
 
-<p style="font-family: accanthis; font-size:12pt; color:black; text-align: right">
-[English version](https://www.deepl.com/en/translator)
+<p style="font-family: accanthis; font-size:12pt; text-align: right; color:black">
+<a href="https://www.deepl.com/en/translator" target="_blank"> ***English version*** </a>
 </p>
 
 <p style="font-family: accanthis; font-size:15pt; color:black; text-align: left">

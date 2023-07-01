@@ -11,7 +11,7 @@ include_graphics("images/coffeeplantation.jpeg")
     **PUBLICATIONS**
 </p>
 <p style="font-family: times, serif; font-size:15pt; text-align: center; color:white">
-    [<i class="fa fa-graduation-cap"></i>](https://scholar.google.com/citations?user=WuPS8K0AAAAJ&hl=en) | [<i class="fab fa-researchgate"></i>](https://www.researchgate.net/profile/Jorge-D-Carballo-Morales)
+<a href="https://scholar.google.com/citations?user=WuPS8K0AAAAJ&hl=en" target="_blank"><i class="fa fa-graduation-cap"></i></a> | <a href="https://www.researchgate.net/profile/Jorge-D-Carballo-Morales" target="_blank"><i class="fab fa-researchgate"></i></a>
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; text-align: right; color:white">
@@ -43,17 +43,17 @@ Medina-Bello, K. I., **Carballo-Morales, J. D.**, Saldaña-Vázquez. R. A., Vill
     </p>
 
 <p style="font-family: accanthis; font-size:12pt; text-align: left; color:white">
-[**Carballo-Morales, J. D.**, Delgado-Montes, C., Auccacusi-Choque, L. V., Reyes-Ortiz, M., & Aisenberg, A. (2022). Niche partitioning and intraspecific shared webs in two species of *Modisimus* Simon, 1893 (Pholcidae: Araneae). The Journal of Arachnology, 50(1), 43-46.](https://bioone.org/journals/the-journal-of-arachnology/volume-50/issue-1/JoA-S-21-020/Niche-partitioning-and-intraspecific-shared-webs-in-two-species-of/10.1636/JoA-S-21-020.short)
-    </p>
+<a href="https://bioone.org/journals/the-journal-of-arachnology/volume-50/issue-1/JoA-S-21-020/Niche-partitioning-and-intraspecific-shared-webs-in-two-species-of/10.1636/JoA-S-21-020.short" target="_blank">**Carballo-Morales, J. D.**, Delgado-Montes, C., Auccacusi-Choque, L. V., Reyes-Ortiz, M., & Aisenberg, A. (2022). Niche partitioning and intraspecific shared webs in two species of *Modisimus* Simon, 1893 (Pholcidae: Araneae). The Journal of Arachnology, 50(1), 43-46.</a>
+</p>
     
 <p style="font-family: accanthis; font-size:13pt; text-align: right; color:white">
   2021
     </p>
 
 <p style="font-family: accanthis; font-size:12pt; text-align: left; color:white">
-[Cabrera-Campos, I., **Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., Villalobos, F., & Ayala-Berdon, J. (2021). Body mass explains digestive traits in small vespertilionid bats. Journal of Comparative Physiology B, 191, 427-438.](https://link.springer.com/article/10.1007/s00360-021-01348-y)
+<a href="https://link.springer.com/article/10.1007/s00360-021-01348-y" target="_blank">Cabrera-Campos, I., **Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., Villalobos, F., & Ayala-Berdon, J. (2021). Body mass explains digestive traits in small vespertilionid bats. Journal of Comparative Physiology B, 191, 427-438.</a>
     </p>
     
 <p style="font-family: accanthis; font-size:12pt; text-align: left; color:white">
-[**Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., & Villalobos, F. (2021). Trophic guild and forest type explain phyllostomid bat abundance variation from human habitat disturbance. Global Ecology and Conservation, 25, e01425.](https://www.sciencedirect.com/science/article/pii/S2351989420309665?via%3Dihub)
-    </p>
+<a href="https://www.sciencedirect.com/science/article/pii/S2351989420309665?via%3Dihub" target="_blank">**Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., & Villalobos, F. (2021). Trophic guild and forest type explain phyllostomid bat abundance variation from human habitat disturbance. Global Ecology and Conservation, 25, e01425.</a>
+</p>
