@@ -11,7 +11,7 @@ include_graphics("images/coffeeplantation.jpeg")
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
-I am a Costa Rican biologist interested in the ecology, evolution, and conservation of bats. I completed my undergraduate and postgraduate studies in Biology, with specializations in Tropical Biology and Natural Resource Management, at the National University of Costa Rica.
+I am a Costa Rican biologist interested in the ecology, evolution, and conservation of bats. I completed my bachelor's and post-bachelor's degree in Biology, with specializations in Tropical Biology and Natural Resource Management, at Universidad Nacional de Costa Rica.
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
