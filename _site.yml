@@ -16,6 +16,8 @@ navbar:
       href: art.html
     - text: "BLOG"
       href: blog.html
+    - text: "CV"
+      href: "JCarballoMorales_CV.pdf"
     - icon: fa-brands fa-github
       href: "https://github.com/Jd1994"
     - icon: fa-brands fa-twitter
