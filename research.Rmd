@@ -17,7 +17,7 @@ include_graphics("images/coffeeplantation.jpeg")
 **Current projects**
 </p>
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
-**Master thesis project.** Coming soon. 
+**Master thesis project.** Coming soon. (2023-present)
 </p>
 
 <hr style="border:0.5px solid #3f4a69">
@@ -26,19 +26,19 @@ include_graphics("images/coffeeplantation.jpeg")
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
-**Thermal niche diversification in** *Sturnira* **bats (Family Phyllostomidae) and its influence in speciation events.** A study with a phylogenetic and macroecological approach.
+**Thermal niche diversification in** *Sturnira* **bats (Family Phyllostomidae) and its influence in speciation events.** A study with a phylogenetic and macroecological approach. (2021-2022)
 </p>
 
 <br>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
-**Relation between habitat niche breadth with ecomorphological traits and extinction risk in phyllostomid bats (Family Phyllostomidae).** A research study that utilizes a phylogenetic and geographic approach.
+**Relation between habitat niche breadth with ecomorphological traits and extinction risk in phyllostomid bats (Family Phyllostomidae).** A research study that utilizes a phylogenetic and geographic approach. (2020-2022)
 </p>
 
 <br>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
-**Effect of habitat disturbance on the abundance of phyllostomid bats (Family Phyllostomidae).** A project with a meta-analysis approach.
+**Effect of habitat disturbance on the abundance of phyllostomid bats (Family Phyllostomidae).** A project with a meta-analysis approach. (2018-2020)
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">
