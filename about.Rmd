@@ -19,7 +19,7 @@ For my research, I enjoy using phylogenetic data to explore the evolution and re
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify"> 
-Currently, I am a master's student of Biology at Towson University in Maryland (since fall 2023). I am a member of the <a href="https://caetanods.weebly.com/" target="_blank">***Caetano Lab***</a>. My project focuses on the evolution of diet in frugivorous bats from the family Phyllostomidae, including its diversification and influence on speciation events.
+Currently, I am a master's student of Biology at <a href="towson.edu" target="_blank">***Towson University***</a> in Maryland (since fall 2023). I am a member of the <a href="https://caetanods.weebly.com/" target="_blank">***Caetano Lab***</a>. My project focuses on the evolution of diet in frugivorous bats from the family Phyllostomidae, including its diversification and influence on speciation events.
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:white; text-align: justify">

@@ -20,8 +20,6 @@ navbar:
       href: "JCarballoMorales_CV.pdf"
     - icon: fa-brands fa-github
       href: "https://github.com/Jd1994"
-    - icon: fa-brands fa-twitter
-      href: "https://twitter.com/jcarmor94"
     - icon: fa fa-envelope
       href: "mailto: jorge.carballo301094@gmail.com"
 output: distill::distill_article
