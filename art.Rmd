@@ -1,17 +1,27 @@
 ---
 title: "Art"
 ---
-<body style="background-color:#990f50;">
+<body style="background-color:#300020;">
 
-<br>
-<br>
+```{r echo=FALSE, layout="l-screen-inset"}
+library("knitr")
+include_graphics("images/art_back.jpg")
+```
 
-<p style="font-family: times, serif; font-size:40pt; text-align: center">
+<p style="font-family: times, serif; font-size:40pt; text-align: center; color:#dbd9d9">
     **ART**
 </p>
-<p style="font-family: times, serif; font-size:20pt; text-align: center">
-    Drawing | Photography
-</p>
-<br>
-<br>
 
+<p style="font-family: times, serif; font-size:25pt; text-align: center; color:#dbd9d9">
+    Watercolor paintings
+</p>
+
+
+<center>
+![](images/3_23 tree.jpg){width=100%}
+
+<center>
+![](images/4_23 Ema.jpg){width=100%}
+
+<center>
+![](images/2_23-red bridge.jpg){width=100%}
