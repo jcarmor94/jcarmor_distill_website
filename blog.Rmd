@@ -19,11 +19,10 @@ include_graphics("images/PVwater.jpeg")
 </p>
 
 <p style="font-family: accanthis; font-size:15pt; color:black; text-align: left">
-**TropBio2023 - Costa Rica** (07/20/2023)
+Muy pronto (99/99/2099)
 </p>
 
 <p style="font-family: accanthis; font-size:13pt; color:black; text-align: left">
-Tuve la oportunidad de ser de nuevo TA del curso TropBio de la OET. 
 </p>
 
 <center>
