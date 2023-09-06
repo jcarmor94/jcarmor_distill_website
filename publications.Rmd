@@ -19,10 +19,6 @@ include_graphics("images/coffeeplantation.jpeg")
     </p>
 
 <p style="font-family: accanthis; font-size:12pt; text-align: left; color:white">
-**Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., Villalobos, F., Herrera-Alsina, L. Thermal niche breadth in Sturnira bats and their relation with species diversification. Journal of Thermal Biology.
-    </p>
-
-<p style="font-family: accanthis; font-size:12pt; text-align: left; color:white">
 Saldaña-Vázquez, R. A., **Carballo-Morales, J. D.**, Hernández-Montero, J. R., Ríos-Chelén, A. A., Vázquez-Domínguez. G., Aguilar-Cucurachi, S., Avila-Flores, R., Mella-Mendez, I., Sandoval-Ruiz, C. A., Silva-Rivera. E., Schondube, J. E., Spaan, D. Bats in tropical cities: a view since the ecology _in_, _of_ and _for_ cities. In: Angeoletto, F., Tryjanowski. P., Fellowes. M. (eds) Ecology of Tropical Cities: Natural and Social Sciences Applied to the Conservation of Urban Biodiversity. Springer.
     </p>
 
@@ -37,6 +33,14 @@ Saldaña-Vázquez, R. A., **Carballo-Morales, J. D.**, Hernández-Montero, J. R.
 <p style="font-family: accanthis; font-size:12pt; text-align: left; color:white">
 Medina-Bello, K. I., **Carballo-Morales, J. D.**, Saldaña-Vázquez. R. A., Villalobos, F., Ayala-Berdon, J. Thermal energetics of bats of the family Vespertilionidae: an evolutionary approach.
     </p>
+
+<p style="font-family: accanthis; font-size:13pt; text-align: right; color:white">
+  2023
+    </p>
+
+<p style="font-family: accanthis; font-size:12pt; text-align: left; color:white">
+<a href="https://www.sciencedirect.com/science/article/pii/S0306456523002383" target="_blank">**Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., Villalobos, F., Herrera-Alsina, L. (2023). Thermal niche breadth in Sturnira bats and their relation with species diversification. Journal of Thermal Biology, 117, 103697. </a>
+</p>
 
 <p style="font-family: accanthis; font-size:13pt; text-align: right; color:white">
   2022
