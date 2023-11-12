@@ -9,7 +9,7 @@ include_graphics("images/art_back.jpg")
 ```
 
 <p style="font-family: times, serif; font-size:40pt; text-align: center; color:#dbd9d9">
-    **ART**
+     **ART** 
 </p>
 
 <p style="font-family: times, serif; font-size:25pt; text-align: center; color:#dbd9d9">
