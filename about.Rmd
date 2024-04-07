@@ -15,13 +15,13 @@ I am a Costa Rican biologist interested in the ecology, evolution, and conservat
 </p>
 
 <p style="font-family: accanthis; font-size:14pt; color:white; text-align: justify">
-For my research, I enjoy using phylogenetic data to explore the evolution of ecological and morphological traits in bats. Additionally, I like to incorporate spatial and environmental data to provide a geographic perspective in my work. I am also passionate about seeking conservation implications for bats and the ecosystems they inhabit.
+For my research, I enjoy using phylogenetic comparative methods (PCM) to explore the evolutionary and ecological aspects of bats, taking advantage of their diversity in ecological interactions and their variation in morphological and physiological traits. Additionally, I like to incorporate spatial and environmental data to provide a geographic perspective in my work. I am also passionate about seeking conservation implications for bats and the ecosystems they inhabit.
 <center>
 ![](images/research1.jpg){width=50%}
 </p>
 
 <p style="font-family: accanthis; font-size:10pt; color:white; text-align: center">
-In La Selva (OET, Costa Rica), I had the opportunity to catch and handle a *Vampyrum spectrum* (Family Phyllostomidae), the largest bat in America.
+In La Selva (OET, Costa Rica. 2021), I had the opportunity to catch and handle a *Vampyrum spectrum* (Family Phyllostomidae), the largest bat in America.
 </p>
 
 <p style="font-family: accanthis; font-size:14pt; color:white; text-align: justify"> 
