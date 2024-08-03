@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: \vspace{-1.8cm}`{=latex} "Untitled"
 description: |
 date: "`r Sys.Date()`"
 output: distill::distill_article
@@ -16,25 +16,32 @@ include_graphics("images/autum.jpg")
     **BLOG**
 </p>
 
-<p style="font-family: Arial, Helvetica, sans-serif; font-size:10pt; color:white; text-align: justify">
-Since I was little, my passion has been learning more about animals and how they interact with their environment. These thoughts made me study biology and focus on ecology and evolution, using bats as models, especially their trophic interaction and how that is related to their evolution and diversification. As a scientist, I know that the quality and quantity of publications are essential to growing in academia. However, I also know that the experiences one has through learning, research, or any other academic activity (e.g., conferences) and the people one meets make a difference if I seek to improve both as a scientist and as a person. Also, some of those experiences are much more fun than the publication process. So, why not remember and document them?!!
-</p>
- <p style="font-family: Arial, Helvetica, sans-serif; font-size:10pt; color:white; text-align: justify">
-PD: Some of the posts are/will be in Spanish. No problem, if you are still interested just use the translator as I usually do.
+<p style="font-family: accanthis; font-size:12pt; color:white; text-align: justify">
+This blog aims to share some relevant experiences and life-changing events related to my growth as a biologist and scientist.
 </p>
 
-
-<p style="font-family: accanthis; font-size:15pt; color:#ffd391; text-align: left">
-Post # 1 - July 2024
+</p>
+<p style="font-family: accanthis; font-size:15pt; color:white; text-align: center">
+TropBio24 (OTS) - My third time as the TA (July, 2024)
 </p>
 
-<p style="font-family: accanthis; font-size:13pt; color:white; text-align: left">
-This is my first post and hopefully not the last one.
+<p style="font-family: accanthis; font-size:11pt; color:white; text-align: justify">
+This year, I had the opportunity not just to go back home and visit my family after a year studying in Towson, but also to be the TA for the famous course of the Organization for Tropical Biology: TropBio24. This course presents the opportunity to meet incredible students and professors, mainly from the USA and Latin America, but also people from distant places such as India and South Africa. We visited three different biological stations in Costa Rica and saw many fantastic animals, plants, and other organisms, such as glowing fungi. Find more about the TropBio course <a href="https://tropicalstudies.org/course/tropical-biology-an-ecological-approach/"> _here._ </a>
 </p>
 
-#<center>
-#![](images/XXX.jpg){width=25%}
-#![](images/XXX.jpg){width=25%}
-#</center>
+<center>
+![](images/fungiGlow.jpeg){width=32%}
+![](images/AnoleLC.jpeg){width=64%}
+<p style="font-family: accanthis; font-size:11pt; color:white; text-align: certer">
+Left: Bioluminescent mushrooms in La Selva, Sarapiqui. Right: Anole lizard in Las Cruces, San Vito.
+</p>
+</center>
+
+<center>
+![](images/TempisqueRiver7_24.jpeg){width=100%}
+<p style="font-family: accanthis; font-size:11pt; color:white; text-align: certer">
+Rio Tempisque, Palo Verde.
+</p>
+</center>
 
 <hr style="border:0.5px solid black">
