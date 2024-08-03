@@ -1,12 +1,15 @@
 ---
 title: "Art"
 ---
+geometry: margin = 0.1in
 <body style="background-color:#300020;">
 
 ```{r echo=FALSE, layout="l-screen-inset"}
 library("knitr")
 include_graphics("images/art_back.jpg")
 ```
+
+
 
 <p style="font-family: times, serif; font-size:40pt; text-align: center; color:#dbd9d9">
      **ART** 
@@ -15,7 +18,6 @@ include_graphics("images/art_back.jpg")
 <p style="font-family: times, serif; font-size:25pt; text-align: center; color:#dbd9d9">
     Watercolor paintings
 </p>
-
 
 <center>
 ![](images/3_23 tree.jpg){width=100%}
