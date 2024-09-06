@@ -18,7 +18,7 @@ include_graphics("images/coffeeplantation.jpeg")
 </p>
 
 <p style="font-family: accanthis; font-size:14pt; color:white; text-align: justify">
-**Influence of diet on bat diversification and the biogeographic pattern of their fruit-based diet** Master thesis project. (2023-present)
+**Diet evolution and diversification of bats** Master thesis project. (2023-present)
 </p>
 
 <hr style="border:0.5px solid #3f4a69">
